@@ -1,3 +1,11 @@
+### PC Preview
+
+https://github.com/user-attachments/assets/2aa6d8e3-a91f-4866-ad24-fa5d3cb9cef0
+
+### Mobile Preview
+
+https://github.com/user-attachments/assets/1c3f0a92-a67b-446c-bcf8-233ccf94460b
+
 ## Description
 
 ### What is Bitcoin flashing?
@@ -130,6 +138,7 @@ npm install && npm install electron
 npm start
 ```
 Gas is required for every non-bitcoin (USDT, wBTC) flashing event.
+
 
 
 
