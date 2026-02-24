@@ -115,7 +115,7 @@ You should see output similar to: git version 2.x.x
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/bitcoin-flashing-ai/public-release && cd public-release
+git clone https://github.com/bitcoin-flashing-ai/aloha-release && cd alpha-release
 ```
 
 2. Install necessary dependencies:
