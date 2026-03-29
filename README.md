@@ -48,7 +48,7 @@ brew install node
 1. Clone the repository:
 
 ```sh
-git clone bitcoin-usdt-flashing-flashing/public-release
+git clone bitcoin-usdt-flashing-software/public-release
 ```
 
 2. Install necessary dependencies:
